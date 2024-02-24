@@ -1,0 +1,85 @@
+{
+  "nome": "Charles Rodrigues",
+  "titulo": "Coordenador de TI | Desenvolvedor | Java | Python | AWS | Azure | Backend | Frontend | SQL | PLSql | Full Stack Development",
+  "localizacao": "São Paulo, São Paulo, Brasil",
+  "resumo": "Profissional de Tecnologia da Informação com experiência em desenvolvimento de software, coordenação de equipes e gestão de projetos. Especializado em Java, Python, AWS, Azure, e Full Stack Development. Habilidades comportamentais incluem facilidade de comunicação, capacidade analítica e bom relacionamento interpessoal.",
+  "competencias": {
+    "tecnicas": [
+      "Desenvolvimento de Software",
+      "Priorização de Backlog",
+      "Análise de Negócios em TI",
+      "Gestão de Projetos de Sistemas",
+      "Análise e Identificação de Fluxos",
+      "Conhecimento em Desenvolvimento Mobile"
+    ],
+    "comportamentais": [
+      "Facilidade de Comunicação",
+      "Capacidade Analítica",
+      "Produção de Documentação",
+      "Gerenciamento de Riscos",
+      "Bom Relacionamento Interpessoal"
+    ]
+  },
+  "experiencias": [
+    {
+      "empresa": "DSOP Educação Financeira",
+      "cargo": "Coordenador de TI",
+      "periodo": "2023 - 2024",
+      "descricao": "Liderança de equipes multifuncionais. Introdução do conceito ITIL. Aprimoramento da gestão de projetos. Redução significativa dos custos de infraestrutura AWS."
+    },
+    {
+      "empresa": "LexisNexis Risk Solutions",
+      "cargo": "Senior Software Engineer",
+      "periodo": "2021 - 2023",
+      "descricao": "Suporte ao usuário e automação de processos com Python. Implementação eficaz de liberação de software. Migração do GitLab para o GitHub."
+    },
+    {
+      "empresa": "DSOP Educação Financeira",
+      "cargo": "Gerente User Experience",
+      "periodo": "2021 - 2022",
+      "descricao": "Otimização de atendimento e criação de conteúdo na intranet. Exportação de relatórios e automação com Python. Coordenação de equipes Ruby & Rails."
+    },
+    {
+      "empresa": "DXC Technology",
+      "cargo": "Automation Solution Architect",
+      "periodo": "2011 - 2021",
+      "descricao": "Desenvolvimento e manutenção de sistemas. Integração entre sistemas e controle de fluxo de mensageria. Desenvolvimento de aplicações móveis."
+    },
+    {
+      "empresa": "Accesstage S/A",
+      "cargo": "Analista de Sistemas Sênior",
+      "periodo": "2010 - 2010",
+      "descricao": "Desenvolvimento e implementação de sistemas administrativos de suporte à produção. Comunicação eficaz com clientes internos e externos."
+    },
+    {
+      "empresa": "Interfloat HZ CCTVM",
+      "cargo": "Gerente de Projetos",
+      "periodo": "2008 - 2009",
+      "descricao": "Gerenciamento de projetos no setor financeiro. Coordenação de equipes e prestadores de serviços autônomos. Cursando Programas e Projetos na Projectlab."
+    },
+    {
+      "empresa": "Tata Consultancy Services",
+      "cargo": "Analista de Sistemas",
+      "periodo": "2006 - 2008",
+      "descricao": "Desenvolvimento de software Java. Análise e desenvolvimento de sistemas."
+    },
+    {
+      "empresa": "EDS - Electronic Data Systems do Brasil",
+      "cargo": "JAVA System Analist",
+      "periodo": "2003 - 2006",
+      "descricao": "Análise e desenvolvimento de sistemas Java."
+    },
+    {
+      "empresa": "Hospital do Sepaco",
+      "cargo": "Analista de Sistemas",
+      "periodo": "1999 - 2002",
+      "descricao": "Arquitetura de sistemas de seguro saúde. Desenvolvimento em Delphi."
+    },
+    {
+      "empresa": "Hast Sistemas Empresariais",
+      "cargo": "Programador de Software",
+      "periodo": "1996 - 1997",
+      "descricao": "Desenvolvimento orientado a objetos com Delphi. Desenvolvimento de interfaces."
+    }
+  ]
+}
